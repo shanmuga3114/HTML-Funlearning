@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>
+            day8
+        </title>
+    </head>
+    <body>
+        <form>
+            email-id<br>
+            <input type="email" name="email-id">
+            <p>
+            password<br>
+            <input type="password" name="password"><br>
+
+            age<br>
+            <input type="number" name="age" min="18" max="60">
+
+
+            <input type="submit" value="send">
+            </p>
+        </form>
+    </body>
+</html>
