@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>
+            day8
+        </title>
+    </head>
+    <body>
+    <form enctype="multipart/form-data" >
+       <fieldset>
+            <h1>Login page</h1>
+    <label for="g">username</label>
+       <input type="text" name="username" id="g" ><br>
+       <label for="password">password</label><br>
+       <input type="password" name="password" id="password">
+       </fieldset>
+        <fieldset>
+        <h1>contacts details</h1>
+        Street<br>
+        <p>
+        <input type="text" name="Street">
+       
+        Country<br>
+        <input type="text" name="country">
+        <input type="file" >
+        </p>
+    </fieldset>
+
+       
+    </form>
+    </body>
+</html>
