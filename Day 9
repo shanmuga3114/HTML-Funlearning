@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>
+            day 9
+        </title>
+    </head>
+    <body>
+        <form enctype= "multipart/form-data">
+    
+        <p>
+            <label for="date">DOB</label>
+            <input type="date" name="DOB" id="date">
+        </p>
+
+        <p>
+            <label for="Price range">Price range</label>
+            <input type="range" name="Price range" id="Price range" min="0" max="1000">
+
+        </p>
+        <p>
+            <input type="submit" value="send">
+
+        
+        </p>
+        <p>
+            Website
+            <input type="url" name="Website"  required>
+        </p>
+        <p>
+            <label for="time"> Raising Time</label>
+            <input type="time" name="Raising Time" id="time">
+        </p>
+        <p>
+            <label for="Vacation week">Vacation week</label>
+            <input type="week" name="Vacation week" id="Vacation week">
+        </p>
+        <label for="Search">Jobsearch</label>
+        <input type="search" name="Jobsearch" id="Search">
+
+
+
+
+        </form>
+    </body>
+
+</html>
