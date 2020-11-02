@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>
+            Day10
+        </title>
+        <style>
+            h1,em{
+                border:1px solid red;
+            }
+        </style>
+        
+    </head>
+    <body>
+        <h1>Types of HTML elements</h1>
+        <p>There are two types of html elements <em>block</em> level elements <em>inline</em> level elements</p>
+         
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xjwdEgwSIXw" frameborder="0"  autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></iframe>
+        <h2>Sri Sairam Institue of Technology</h2>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.174983068816!2d80.0510438143341!3d12.960652318626318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f51f638ddfbb%3A0xf3aef7ec7c8979ba!2sSri%20Sairam%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1604225743828!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<h2>audio</h2>
+        <audio src="Bigil-Rayappan-BGM-Ringtone.mp3" controls> bigil songs</audio>
+
+        <h2>video</h2>
+        <video src="Singapenney Singapenney.mp4" width="200" controls bigil songs</video>
+
+
+
+
+
+    </body>
+</html>
